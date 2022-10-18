@@ -1,2 +1,2 @@
 # Notebooks
-Some of Notes
+Some Study Notes of my own
