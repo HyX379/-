@@ -1,2 +1,3 @@
-# Notebooks
-Some Study Notes of my own
+# 初等数论速通指南 下载
+2023.10.29 Upd ver beta.1.1
+---------------------------
